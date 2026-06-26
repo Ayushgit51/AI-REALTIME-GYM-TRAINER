@@ -4,7 +4,7 @@ __pycache__/
 
 # Virtual environment
 venv/
-.env/
+.env
 
 # OS files
 .DS_Store
@@ -14,4 +14,4 @@ Thumbs.db
 AI-REALTIME-GYM-COACH/data.db
 
 # Logs
-*.log
+*.log.env
