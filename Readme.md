@@ -3,6 +3,7 @@
 **AI Real-Time Gym Trainer** is a computer-vision powered fitness coach that watches you exercise through your webcam, counts your reps, checks your form, and gives you spoken feedback — like having a personal trainer in your browser.
 
 🔗 **Home page (landing site):** [gregarious-cheesecake-781905.netlify.app](https://6a400054659bb413ac7d2147--gregarious-cheesecake-781905.netlify.app/)
+
 🏋️ **Direct app (try it live):** [ayugit51-ai-realtime-gym-trainer.streamlit.app](https://ayugit51-ai-realtime-gym-trainer.streamlit.app/)
 
 ---
